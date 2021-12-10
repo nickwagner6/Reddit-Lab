@@ -1,0 +1,22 @@
+body {
+  background-color: aqua;
+}
+
+a {
+  color: red;
+  font-weight: bold;
+  display: block;
+}
+
+h3 {
+  color: purple;
+  font-weight: bold;
+  font-family: cursive;
+  border-bottom: 3px black solid;
+}
+
+img {
+  border: 5px black dashed;
+  height: 100px;
+  width: 100px;
+}
